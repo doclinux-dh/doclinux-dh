@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... Python and having a lots of fun codeing with it. One of the easiest Languages to learn I've seen yet.
 - 💞️ I’m looking to collaborate on ... I'll finish this later. LOL just like all the codes I have laying around in all my hard drives - 👀-)
 - 📫 How to reach me ... well Thats a Long Long Story................
-      i_will_see [  -u $around = sum.where ] {
+      i_will_see [  -u $around = some.where ] {
       ✨}
 
 <!---
